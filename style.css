@@ -593,9 +593,12 @@ p {
 }
 
 .switch input {
-    opacity: 1;
-    width: 11px;
-    height: 10px;
+    opacity: 0;
+width: 80px;
+height: 50px;
+position: absolute;
+z-index: 1;
+cursor: pointer;
 }
 
 .inner-circle {
