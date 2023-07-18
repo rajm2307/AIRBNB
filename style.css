@@ -149,7 +149,6 @@ p {
 .multiple_option_section {
     display: flex;
     justify-content: center;
-    padding-top: 30px;
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
     background-color: #fff;
 }
